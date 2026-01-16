@@ -1,0 +1,219 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+    color: #222;
+}
+
+a {
+    text-decoration: none;
+    color: #0d6efd;
+}
+
+.site-header {
+    background: #ffffff;
+    border-bottom: 1px solid #e5e5e5;
+    padding: 15px 0;
+}
+
+.logo a {
+    font-size: 22px;
+    font-weight: 600;
+    color: #0d6efd;
+}
+
+.main-nav .nav-link {
+    color: #333;
+    font-weight: 500;
+}
+
+.main-nav .nav-link:hover {
+    color: #0d6efd;
+}
+
+.hero-section {
+    padding: 80px 0;
+    background: #f8f9fa;
+}
+
+.hero-section h1 {
+    font-size: 36px;
+    margin-bottom: 15px;
+}
+
+.category-preview {
+    padding: 60px 0;
+}
+
+.category-card {
+    border: 1px solid #e5e5e5;
+    padding: 25px;
+    text-align: center;
+    height: 100%;
+}
+
+.category-card h3 {
+    color: #0d6efd;
+    margin-bottom: 10px;
+}
+
+.site-footer {
+    background: #f8f9fa;
+    padding: 20px 0;
+    font-size: 14px;
+    color: #555;
+}
+
+.page-title {
+    padding: 60px 0;
+    background: #ffffff;
+}
+
+.page-title h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.product-categories {
+    padding: 60px 0;
+}
+
+.product-categories .category-card {
+    display: block;
+    border: 1px solid #e5e5e5;
+    padding: 30px;
+    text-align: center;
+    height: 100%;
+    transition: box-shadow 0.2s ease;
+    color: #222;
+}
+
+.product-categories .category-card:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    color: #222;
+}
+
+.product-list {
+    padding: 60px 0;
+}
+
+.product-card {
+    border: 1px solid #e5e5e5;
+    padding: 25px;
+    height: 100%;
+}
+
+.product-card h3 {
+    color: #0d6efd;
+    margin-bottom: 10px;
+}
+
+.product-card ul {
+    padding-left: 18px;
+    font-size: 14px;
+}
+
+.product-detail {
+    padding: 60px 0;
+}
+
+.product-image-placeholder {
+    border: 1px dashed #ccc;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #888;
+    font-size: 14px;
+}
+
+.spec-list {
+    padding-left: 18px;
+    margin-bottom: 25px;
+    font-size: 15px;
+}
+
+.enquiry-box {
+    border: 1px solid #e5e5e5;
+    padding: 20px;
+    background: #f8f9fa;
+}
+
+.contact-section {
+    padding: 60px 0;
+}
+
+.contact-info {
+    border: 1px solid #e5e5e5;
+    padding: 25px;
+    height: 100%;
+}
+
+.contact-info h3 {
+    color: #0d6efd;
+    margin-bottom: 10px;
+}
+
+.contact-info .note {
+    font-size: 14px;
+    color: #555;
+}
+
+.enquiry-form .form-control {
+    font-size: 14px;
+}
+
+.about-content {
+    padding: 60px 0;
+}
+
+.about-content h3 {
+    color: #0d6efd;
+    margin-bottom: 10px;
+}
+
+.about-content p {
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.about-sidebar {
+    border: 1px solid #e5e5e5;
+    padding: 20px;
+    background: #f8f9fa;
+}
+
+.about-sidebar h4 {
+    margin-bottom: 15px;
+    color: #0d6efd;
+}
+
+.home-section {
+    padding: 60px 0;
+}
+
+.home-section h2 {
+    color: #0d6efd;
+    margin-bottom: 15px;
+}
+
+.home-points {
+    list-style: none;
+    padding-left: 0;
+}
+
+.home-points li {
+    padding: 6px 0;
+    font-size: 15px;
+}
+
+.trust-card {
+    border: 1px solid #e5e5e5;
+    padding: 20px;
+    font-size: 15px;
+    background: #ffffff;
+}
+
+.nav-link.active {
+    color: #0d6efd;
+    font-weight: 600;
+}
